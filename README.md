@@ -1,4 +1,6 @@
 # Calcular-Desconto-de-produtos
+Atividade passada na aula de programação de aplicativo
+
 
 Programa em java que enquanto o usuário não decidir sair
 do programa ele irá entrar o nome de um produto, seu preço, código
